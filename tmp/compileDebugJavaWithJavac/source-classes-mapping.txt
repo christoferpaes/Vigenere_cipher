@@ -1,0 +1,19 @@
+com/example/vigenerecipher/databinding/ContentMainBinding.java
+ com.example.vigenerecipher.databinding.ContentMainBinding
+com/example/vigenerecipher/databinding/FragmentFirstBinding.java
+ com.example.vigenerecipher.databinding.FragmentFirstBinding
+com/example/vigenerecipher/BuildConfig.java
+ com.example.vigenerecipher.BuildConfig
+com/example/vigenerecipher/databinding/FragmentSecondBinding.java
+ com.example.vigenerecipher.databinding.FragmentSecondBinding
+com/example/vigenerecipher/databinding/ActivityMainBinding.java
+ com.example.vigenerecipher.databinding.ActivityMainBinding
+com/example/vigenerecipher/SecondFragment.java
+ com.example.vigenerecipher.SecondFragment
+ com.example.vigenerecipher.SecondFragment$1
+com/example/vigenerecipher/FirstFragment.java
+ com.example.vigenerecipher.FirstFragment
+com/example/vigenerecipher/MainActivity.java
+ com.example.vigenerecipher.MainActivity
+ com.example.vigenerecipher.MainActivity$1
+ com.example.vigenerecipher.MainActivity$2
